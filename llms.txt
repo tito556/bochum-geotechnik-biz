@@ -1,0 +1,51 @@
+# Geotechnik — Bochum
+
+> Geotechnical engineering services in Bochum, Deutschland.
+
+## Services
+- [Anker](https://bochum.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://bochum.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://bochum.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://bochum.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://bochum.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://bochum.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://bochum.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://bochum.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://bochum.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://bochum.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://bochum.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://bochum.geotechnik.biz/fundamente/)
+- [Grundungen](https://bochum.geotechnik.biz/grundungen/)
+- [Hange](https://bochum.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://bochum.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://bochum.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://bochum.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://bochum.geotechnik.biz/labor/)
+- [Labor In Situ](https://bochum.geotechnik.biz/labor-in-situ/)
+- [Masw](https://bochum.geotechnik.biz/masw/)
+- [Pfahle](https://bochum.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://bochum.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://bochum.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://bochum.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://bochum.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://bochum.geotechnik.biz/schurfgruben/)
+- [Seismik](https://bochum.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://bochum.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://bochum.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://bochum.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://bochum.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://bochum.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://bochum.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://bochum.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://bochum.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://bochum.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://bochum.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://bochum.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://bochum.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://bochum.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Bochum, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
